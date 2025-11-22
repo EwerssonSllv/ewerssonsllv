@@ -9,8 +9,6 @@
   <img src="https://img.icons8.com/color/48/000000/cs.png"/>
   <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
   <img src="https://img.icons8.com/color/48/000000/net-framework.png"/>
-  <img src="https://img.icons8.com/color/48/000000/android-os.png"/>
-  <img src="https://img.icons8.com/color/48/000000/windows-client.png"/>
   <img src="https://img.icons8.com/color/48/000000/database.png" alt="Database icon" style="vertical-align: middle;"/> 
   <img src="https://img.icons8.com/color/48/000000/docker.png"/>
 </h6>
@@ -28,13 +26,11 @@
 
 ### About Me
 
-I am Ewersson O. da Silva, a Software Engineer focused on backend, mobile, and desktop development.
+I am Ewersson O. da Silva, a Software Engineer focused on backend development.
 
 I have experience with:
 <ul>
-  <li>Java and C# – developing backend and desktop applications, creating robust and scalable systems.</li>
-  <li>Kotlin and Android – developing modern mobile applications with a focus on performance and user experience.</li>
-  <li>.NET MAUI – building cross-platform applications (desktop and mobile) with a unified codebase.</li>
+  <li>Java, Kotlin and C# – developing backend applications, creating robust and scalable systems.</li>
   <li>PostgreSQL and MySQL – managing relational databases, ensuring data integrity, efficient queries, and high performance.</li>
   <li>Docker – containerizing applications, facilitating deployment, scalability, and consistent environments.</li>
   <li>REST APIs and Microservices – integrating systems, creating independent services, and enabling communication between different components.</li>
