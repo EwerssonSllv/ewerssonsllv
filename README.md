@@ -1,52 +1,80 @@
-<div align="center" style="display: inline_block">
-  <h3>Hello! I am Ewersson O. da Silva 👋</h3>
-  <h4>Full Stack Developer</h4>
-</div>
+# 👨‍💻 Ewersson O. da Silva
 
-<div align="center">
-  <h6 style="display: inline-block;">
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
-    <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-    <img src="https://img.icons8.com/color/48/000000/database.png"/>
-    <img src="https://img.icons8.com/color/48/000000/docker.png"/>
-  </h6>
-</div>
+**`Full Stack Developer`**
 
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/ewersson-silva-4389b8240/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+Hi! My name is Ewersson O. da Silva. I am a Full Stack Developer focused on building scalable, efficient, and well-structured applications. I study Analysis and Systems Development and constantly seek to improve my skills in both backend and frontend development.
+
+I have experience developing APIs, web applications, and complete systems using modern technologies such as Java, Kotlin, Spring, React, and Next.js. I am passionate about technology, software architecture, and problem-solving, always aiming to write clean, organized, and efficient code.
 
 ---
 
-## About Me
+## 🌐 Connect with me
 
-I am a **Full Stack Developer** passionate about building scalable, efficient, and well-structured applications, with strong experience in both backend and frontend development.
+<p align="left">
+    <a href="https://www.linkedin.com/in/ewersson-silva-4389b8240/" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="Connect with me on LinkedIn" 
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/SEU_USUARIO_AQUI" target="_blank">
+        <img 
+            alt="GitHub" 
+            title="My GitHub" 
+            src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white"
+        />
+    </a>
+</p>
 
-### Tech Stack
+---
 
-**Backend:**
-- Java & Kotlin with Spring Framework
-- RESTful APIs and Microservices
-- SQL databases (PostgreSQL, MySQL)
+## 🤖 Languages and Technologies
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="30px" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px" />
+</p>
+
+---
+
+## 🚀 Tech Stack
 
 **Frontend:**
-- React.js
-- Next.js
+- HTML, CSS, Tailwind CSS
 - TypeScript
+- React.js, Next.js
 
-**DevOps & Tools:**
+**Backend:**
+- Java, Kotlin
+- Spring Framework
+- REST APIs & Microservices
+
+**Database & DevOps:**
+- SQL (PostgreSQL, MySQL)
 - Docker
 - Git & Version Control
-- Software Architecture and Design Patterns
 
-### Professional Profile
+---
 
-I focus on developing robust, scalable, and maintainable systems, applying software engineering best practices and clean code principles.  
-I enjoy solving complex problems and continuously learning new technologies to improve performance, architecture, and user experience.
+## 📊 GitHub Stats
 
-I value teamwork, collaboration, and clear communication, believing that great software is built through shared knowledge and strong engineering practices.
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EwerssonSllv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwerssonSllv&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 💡 About Me
+
+I am constantly learning new technologies and improving my skills to solve real-world problems efficiently. I value clean code, good architecture, and collaboration, believing that great software is built through strong engineering practices and teamwork.
 
