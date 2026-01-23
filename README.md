@@ -1,4 +1,4 @@
-# 👨‍💻 Ewersson O. da Silva
+# Ewersson O. da Silva
 
 **`Full Stack Developer`**
 
@@ -6,28 +6,6 @@ Hi! My name is Ewersson O. da Silva. I am a Full Stack Developer focused on buil
 
 I have experience developing APIs, web applications, and complete systems using modern technologies such as Java, Kotlin, Spring, React, and Next.js. I am passionate about technology, software architecture, and problem-solving, always aiming to write clean, organized, and efficient code.
 
----
-
-## 🌐 Connect with me
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/ewersson-silva-4389b8240/" target="_blank">
-        <img 
-            alt="LinkedIn" 
-            title="Connect with me on LinkedIn" 
-            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/SEU_USUARIO_AQUI" target="_blank">
-        <img 
-            alt="GitHub" 
-            title="My GitHub" 
-            src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white"
-        />
-    </a>
-</p>
-
----
 
 ## 🤖 Languages and Technologies
 
